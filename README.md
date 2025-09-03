@@ -53,12 +53,12 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/__________/__________/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/vedant2403664104/vedant2403664104/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <p align="center">
-  <img src="https://neon-badge.__________.workers.dev/?page_id=__________" alt="Neon Visitor Counter"/>
+  <img src="https://neon-badge.vedant2403664104.workers.dev/?page_id=__________" alt="Neon Visitor Counter"/>
 </p>
 
 ###
