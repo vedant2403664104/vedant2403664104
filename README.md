@@ -1,15 +1,15 @@
-<h2 align="left">Hi 👋! My name is Vedant Rathod and I'm a passionate IT engineering student from Maharashtra, India.</h2>
+<h2 align="left">Hi! I’m Vedant Rathod, diving deep into IT engineering and coding my way through life from Maharashtra, India.</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chiragvaze&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chiragvaze&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=vedant2403664104&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vedant2403664104&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  />
+<img align="right" height="150" src="__________"  />
 
 ###
 
@@ -31,23 +31,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" height="30" alt="processing logo"  />
 </div>
 
-
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/ccchirag_vaze" target="_blank">
+  <a href="https://www.instagram.com/vedyaas_pvt" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://www.twitch.tv/chiragvaze" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href="https://discord.com/chiragvaze" target="_blank">
+
+  <a href="https://discord.com/lucifer08914" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="mailto:ccchiragvaze@gmail.com" target="_blank">
+  <a href="mailto:vedantrathod914@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/chirag-vaze" target="_blank">
+  <a href="https://www.linkedin.com/in/__________" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
@@ -56,12 +53,12 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/chiragvaze/chiragvaze/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/__________/__________/output/snake.svg" alt="Snake animation" />
 
 ###
-<p align="center">
-  <img src="https://neon-badge.ccchiragvaze.workers.dev/?page_id=chiragvaze.chiragvaze" alt="Neon Visitor Counter"/>
-</p>
 
+<p align="center">
+  <img src="https://neon-badge.__________.workers.dev/?page_id=__________" alt="Neon Visitor Counter"/>
+</p>
 
 ###
